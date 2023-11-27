@@ -57,9 +57,9 @@ const TodoList = () => {
       <table className="table" style={{ width: '40%', margin: 'auto', marginTop: '10px', borderCollapse: 'collapse',position:'related', }}>
         <thead>
           <tr>
-            <th style={{ padding: '2px' }}>Complete</th>
-            <th style={{ padding: '2px' }}>Task</th>
-            <th style={{ padding: '2px' }}>Actions</th>
+            <th style={{ padding: '3px' }}>Complete</th>
+            <th style={{ padding: '3px' }}>Task</th>
+            <th style={{ padding: '3px' }}>Actions</th>
           </tr>
         </thead>
         <tbody>
